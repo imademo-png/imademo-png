@@ -1,20 +1,65 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**imademo-png/imademo-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Imâd 👋
 
-Here are some ideas to get you started:
+*Junior Developer · Video Editor · Supply Chain Enjoyer*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" alt="JWT">
-  <br>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Pinia-FFD757?style=flat&logo=pinia&logoColor=black" alt="Pinia">
-  <img src="https://img.shields.io/badge/WebGPU-990000?style=flat&logo=webgpu&logoColor=white" alt="WebGPU">
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" alt="Axios">
-  <img src="https://img.shields.io/badge/Cypress-69AD32?style=flat&logo=cypress&logoColor=white" alt="Cypress">
-</p>
+[![Profile views](https://komarev.com/ghpvc/?username=TON_USERNAME&color=6366f1&style=flat)](https://github.com/TON_USERNAME)
+
+</div>
+
+---
+
+## 🚀 Tech & Creative Stack
+
+<div align="center">
+
+**Frontend & Mobile**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+**Database**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+**Video Editing & Creativity**
+
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-EA77FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+- 🔒 **Note on Activity:** My public contribution graph doesn't show everything! Most of my professional and personal projects are hosted in **private GitHub repositories** or on a **private Gitea instance**.
+- 🔭 Currently working on **web application in my InternShip at EPSM 74 (private repo)**
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=imademo-png&theme=tokyonight&hide_border=true" />
+</div>
+
+
+
+</div>
