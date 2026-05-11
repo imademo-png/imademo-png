@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey, I'm Imâd 👋
+# Hey, I'm Imad 👋
 
 *Junior Developer · Video Editor · Supply Chain Enjoyer*
 
-[![Profile views](https://komarev.com/ghpvc/?username=TON_USERNAME&color=6366f1&style=flat)](https://github.com/TON_USERNAME)
+[![Profile views](https://komarev.com/ghpvc/?username=imademo-png&color=6366f1&style=flat)](https://github.com/imademo-png)
 
 </div>
 
@@ -33,6 +33,8 @@
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![MONGODB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white))
+
 
 **Video Editing & Creativity**
 
@@ -49,12 +51,6 @@
 - 🔭 Currently working on **web application in my InternShip at EPSM 74 (private repo)**
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=imademo-png&theme=tokyonight&hide_border=true" />
