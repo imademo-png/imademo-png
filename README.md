@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Tech & Creative Stack
+##  Tech & Creative Stack
 
 <div align="center">
 
@@ -45,9 +45,9 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 🔒 **Note on Activity:** My public contribution graph doesn't show everything! Most of my professional and personal projects are hosted in **private GitHub repositories** or on a **private Gitea instance**.
+-  **Note on Activity:** My public contribution graph doesn't show everything! Most of my professional and personal projects are hosted in **private GitHub repositories** or on a **private Gitea instance**.
 - 🔭 Currently working on **web application in my InternShip at EPSM 74 (private repo)**
 
 
