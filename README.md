@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Imad 👋
+
 
 *Junior Developer · Video Editor · Supply Chain Enjoyer*
 
