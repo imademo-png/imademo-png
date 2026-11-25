@@ -10,7 +10,7 @@
 
 ---
 
-##  Tech & Creative Stack
+##  Tech & Adobo
 
 <div align="center">
 
@@ -20,7 +20,6 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Backend**
 
@@ -28,6 +27,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Symfony]https://img.shields.io/badge/Symfony-black?logo=symfony
 
 **Database**
 
@@ -36,7 +36,7 @@
 ![MONGODB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-**Video Editing & Creativity**
+**Video Editing y**
 
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-EA77FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
@@ -48,7 +48,7 @@
 ##  About Me
 
 -  **Note on Activity:** My public contribution graph doesn't show everything! Most of my professional and personal projects are hosted in **private GitHub repositories** or on a **private Gitea instance**.
--  Currently working on **web application in my InternShip at EPSM 74 (private repo)**
+
 
 
 
