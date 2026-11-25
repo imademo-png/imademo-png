@@ -2,7 +2,7 @@
 
 
 
-*Junior Developer · Video Editor · Supply Chain Enjoyer*
+
 
 [![Profile views](https://komarev.com/ghpvc/?username=imademo-png&color=6366f1&style=flat)](https://github.com/imademo-png)
 
