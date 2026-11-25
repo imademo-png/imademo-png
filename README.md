@@ -27,7 +27,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Symfony]https://img.shields.io/badge/Symfony-black?logo=symfony
+![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)
 
 **Database**
 
